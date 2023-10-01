@@ -1,0 +1,7 @@
+numpy==1.18.3
+pandas==1.0.3
+plotly==4.6.0
+scipy==1.4.1
+pyzmq==19.0.0
+EasyModbus==1.2.8
+pymodbus==2.3.0
